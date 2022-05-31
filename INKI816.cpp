@@ -45,8 +45,8 @@ int main()
 {
 	int n;
 	//nizi od tocni vrendosti za spilot od karti
-	string BojaKarti[]={"Pik","Srce","Lokum","Deteleina"};
-	string BroeviKarti[]={"1","2","3","4","5","6","7","8","9","10","Jandar","Dama","Pop"};
+	string BojaKarti[]={"Crno","Srce","Kupa","Spato"};
+	string BroeviKarti[]={"1","2","3","4","5","6","7","8","9","10","Jandar","Cupa","Pop"};
 	cout<<"\n Broj kombinacii : ";
 	cin>>n;
 	//povik na funkicjata
