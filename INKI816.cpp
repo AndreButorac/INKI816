@@ -33,7 +33,7 @@ void spilBroeviKarti(string BroeviKarti[],int n,string BojaKarti[])
 		karti[i+1]=BojaKarti[bojaKar];	//na i+1 pozicija se zapisuva boja
 	}
 	cout<<"\n"<<endl;
-	//pecatenje n avrendosgtite na ekran
+	//pecatenje na vrednostite na ekran
 	for(int i=0;i<n*2;i=i+2)
 	{
 		cout<<karti[i+1]<<"\t "<<karti[i]<<endl;
